@@ -96,6 +96,25 @@
           </mj-button>
         </mj-column>
       </mj-section>
+      <mj-raw>
+        <!-- Blok 4 -->
+      </mj-raw>
+      <mj-section full-width="full-width">
+        <mj-column width="50%">
+          <mj-text mj-class="heading" padding="0">
+            Het Happy Meal bestaat 40 jaar!
+          </mj-text>
+          <mj-text mj-class="paragraph" padding="10px 0">
+            Al 40 jaar maken we kinderen blij met onze Happy Meals. In al die jaren zaten er talloze verrassingen in het Happy Meal. De meest geliefde speeltjes keren terug t/m 10 november, zoals Power Rangers en Furby!
+          </mj-text>
+          <mj-button mj-class="cta" href="#" padding="10px 0">
+            Meer over Happy Meal
+          </mj-button>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image width="300px" src="./assets/blok_4_card.png" padding="0 0 10px 25px" />
+        </mj-column>
+      </mj-section>
     </mj-wrapper>
   </mj-body>
 </mjml>
