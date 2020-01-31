@@ -77,6 +77,25 @@
           </mj-button>
         </mj-column>
       </mj-section>
+      <mj-raw>
+        <!-- Blok 3 -->
+      </mj-raw>
+      <mj-section full-width="full-width">
+        <mj-column width="50%">
+          <mj-image width="300px" src="./assets/blok_3_card.png" padding="0 25px 10px 0" />
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text mj-class="heading" padding="0">
+            Omdat jullie ‘m zo lekker vinden
+          </mj-text>
+          <mj-text mj-class="paragraph" padding="10px 0">
+            De exclusieve Coupon voor een Dubbele Cheeseburger hebben we wegens succes verlengd t/m 1 december! Dus pak ‘m nu voor maar €2,50 in de App.
+          </mj-text>
+          <mj-button mj-class="cta" href="#" padding="10px 0">
+            Coupon pakken
+          </mj-button>
+        </mj-column>
+      </mj-section>
     </mj-wrapper>
   </mj-body>
 </mjml>
