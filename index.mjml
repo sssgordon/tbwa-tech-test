@@ -1,0 +1,51 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+
+      <mj-class name='heading' color='#212020' font-family='Sans-serif' font-weight='600' font-size="30px" align='center' />
+      <mj-class name='paragraph' color='#2d2d2d' font-family="Arial" font-size='14px' align='center' line-height="1.5" />
+      <mj-class name='cta' color='#264f36' background-color='transparent' border="1px solid #254f36" border-radius='5px' font-family='Sans-serif' font-size='16px' align='center' />
+
+      <mj-class name='white' color='#fff' />
+      <mj-class name='grey-dark' color='#212020' />
+      <mj-class name='grey-medium' color='#2d2d2d' />
+      <mj-class name='grey-light' color='#706f6f' />
+      <mj-class name='green-light' color='#264f36' />
+      <mj-class name='green' color='#254f36' />
+      <mj-class name='tangerine' color='#ffbc0d' />
+
+      <mj-class name='font-sm' font-size='42px' />
+      <mj-class name='font-m' font-size='48px' />
+      <mj-class name='font-l' font-size='30px' />
+      <mj-class name='bold' font-weight='700' />
+
+      <mj-class name='arial' font-family='Arial' />
+      <mj-class name='helvetica' font-family='Helvetica' />
+      <mj-class name='sans-serif' font-family='Sans-serif' />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+    <mj-wrapper padding="200px 30px" background-color="#fff">
+      <mj-raw>
+        <!-- Header -->
+      </mj-raw>
+      <mj-section background-url="./assets/header_img.png" background-size="cover" background-repeat="no-repeat" background-color="#fff">
+
+        <mj-column>
+          <mj-text mj-class="heading white" padding-top="330px">
+            Een cadeautje aan jezelf
+          </mj-text>
+          <mj-text mj-class="paragraph white">
+            Dát is de Maestro Truffel Deluxe. Twee 100% Angus rundvlees burgers met gerijpte Cheddar kaas, compleet met romige truffelsaus, rucola sla en pickled onions op een maan- en sesamzaadbroodje. En dat is niet alles, lees gauw verder voor nog meer nieuwe producten!
+          </mj-text>
+          <mj-button mj-class='cta white' href="#" background-color="#254f36" padding-bottom="30px">
+            Bekijk de burger
+          </mj-button>
+        </mj-column>
+
+      </mj-section>
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>
