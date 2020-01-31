@@ -51,14 +51,29 @@
           <mj-image width="300px" src="./assets/blok_1_card.png" padding="0 25px 10px 0" />
         </mj-column>
         <mj-column width="50%">
-          <mj-text mj-class="heading" padding-right="0">
+          <mj-text mj-class="heading" padding="10px 0">
             Koffers pakken en gaan!
           </mj-text>
-          <mj-text mj-class="paragraph" padding-right="0">
+          <mj-text mj-class="paragraph" padding="10px 0">
             Er staat een nieuwe winactie voor je klaar! Deze McDonald’s koffer is dé must-have voor jouw volgende vakantie. Check gauw de actie en win deze FAN-tastische prijs!
           </mj-text>
-          <mj-button mj-class="cta" href="#" padding-right="0">
+          <mj-button mj-class="cta" href="#" padding="10px 0">
             Ga naar de actie
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Blok 2 -->
+      </mj-raw>
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text mj-class="heading">Uitgebreid dineren
+          </mj-text>
+          <mj-text mj-class="paragraph">Dat doe je met ons nieuwe, tijdelijke Deluxe assortiment! Met de Crispy Shrimps, Homestyle Chicken Tenders, Milk Shake Deluxe én McFlurry Chocolade Karamel-Zeezout is er genoeg te kiezen.
+          </mj-text>
+          <mj-image width="540px" src="./assets/blok_2_img.png" padding="10px 0" />
+          <mj-button mj-class="cta">
+            Check het hele menu
           </mj-button>
         </mj-column>
       </mj-section>
