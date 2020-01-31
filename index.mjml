@@ -134,6 +134,24 @@
           </mj-button>
         </mj-column>
       </mj-section>
+      <mj-raw>
+        <!-- Blok 6 -->
+      </mj-raw>
+      <mj-section full-width="full-width">
+        <mj-column width="50%">
+          <mj-text mj-class="heading" padding="0 0 10px 0">
+            Deze Sneak Peak is speciaal voor jou…
+          </mj-text>
+          <mj-text mj-class="paragraph" padding="10px 0">
+            De Cadeau Kalender komt er weer aan! 3 weken lang geniet je elke dag van een lekkere verrassing. Wil je helemaal in de stemming komen? Houd de App in de gaten! </mj-text>
+          <mj-button mj-class="cta" href="#" padding="10px 0">
+            Download de App
+          </mj-button>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image width="300px" src="./assets/blok_6_card.png" padding="0 0 0 25px" />
+        </mj-column>
+      </mj-section>
     </mj-wrapper>
   </mj-body>
 </mjml>
