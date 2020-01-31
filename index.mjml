@@ -14,8 +14,8 @@
       <mj-class name='green' color='#254f36' />
       <mj-class name='tangerine' color='#ffbc0d' />
 
-      <mj-class name='font-sm' font-size='42px' />
-      <mj-class name='font-m' font-size='48px' />
+      <mj-class name='font-sm' font-size='14px' />
+      <mj-class name='font-m' font-size='16px' />
       <mj-class name='font-l' font-size='30px' />
       <mj-class name='bold' font-weight='700' />
 
@@ -31,7 +31,6 @@
         <!-- Header -->
       </mj-raw>
       <mj-section background-url="./assets/header_img.png" background-size="cover" background-repeat="no-repeat" background-color="#fff">
-
         <mj-column>
           <mj-text mj-class="heading white" padding-top="330px">
             Een cadeautje aan jezelf
@@ -43,9 +42,26 @@
             Bekijk de burger
           </mj-button>
         </mj-column>
-
       </mj-section>
-
+      <mj-raw>
+        <!-- Blok 1 -->
+      </mj-raw>
+      <mj-section full-width="full-width">
+        <mj-column width="50%">
+          <mj-image width="300px" src="./assets/blok_1_card.png" padding="0 25px 10px 0" />
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text mj-class="heading" padding-right="0">
+            Koffers pakken en gaan!
+          </mj-text>
+          <mj-text mj-class="paragraph" padding-right="0">
+            Er staat een nieuwe winactie voor je klaar! Deze McDonald’s koffer is dé must-have voor jouw volgende vakantie. Check gauw de actie en win deze FAN-tastische prijs!
+          </mj-text>
+          <mj-button mj-class="cta" href="#" padding-right="0">
+            Ga naar de actie
+          </mj-button>
+        </mj-column>
+      </mj-section>
     </mj-wrapper>
   </mj-body>
 </mjml>
