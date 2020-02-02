@@ -34,17 +34,27 @@
       <mj-raw>
         <!-- Header -->
       </mj-raw>
-      <mj-section background-url="./assets/header_img.png" background-size="cover" background-repeat="no-repeat" background-color="#fff">
+      <mj-section padding-bottom='0'>
         <mj-column>
-          <mj-text mj-class="heading white" padding-top="330px">
+          <mj-image src='./assets/header_top.png' padding='0' />
+        </mj-column>
+      </mj-section>
+      <mj-section padding='0'>
+        <mj-column background-color='#ffbc0d' padding='20px 0'>
+          <mj-text mj-class="heading white">
             Een cadeautje aan jezelf
           </mj-text>
           <mj-text mj-class="paragraph white">
             Dát is de Maestro Truffel Deluxe. Twee 100% Angus rundvlees burgers met gerijpte Cheddar kaas, compleet met romige truffelsaus, rucola sla en pickled onions op een maan- en sesamzaadbroodje. En dat is niet alles, lees gauw verder voor nog meer nieuwe producten!
           </mj-text>
-          <mj-button mj-class='cta white' href="#" background-color="#254f36" padding-bottom="30px">
+          <mj-button mj-class='cta white' href="#" background-color="#254f36">
             Bekijk de burger
           </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top='0'>
+        <mj-column>
+          <mj-image src='./assets/header_bottom.png' padding='0' />
         </mj-column>
       </mj-section>
       <mj-raw>
@@ -52,7 +62,7 @@
       </mj-raw>
       <mj-section>
         <mj-column width="50%">
-          <mj-image width="300px" href='#' src="./assets/blok_1_card.png" />
+          <mj-image href='#' src="./assets/blok_1_card.png" />
         </mj-column>
         <mj-column width="50%">
           <mj-text mj-class="heading">
@@ -75,7 +85,7 @@
           </mj-text>
           <mj-text mj-class="paragraph">Dat doe je met ons nieuwe, tijdelijke Deluxe assortiment! Met de Crispy Shrimps, Homestyle Chicken Tenders, Milk Shake Deluxe én McFlurry Chocolade Karamel-Zeezout is er genoeg te kiezen.
           </mj-text>
-          <mj-image width="540px" href='#' src="./assets/blok_2_img.png" />
+          <mj-image href='#' src="./assets/blok_2_img.png" />
           <mj-button mj-class="cta" href='#'>
             Check het hele menu
           </mj-button>
@@ -86,7 +96,7 @@
       </mj-raw>
       <mj-section>
         <mj-column width="50%">
-          <mj-image width="300px" href='#' src="./assets/blok_3_card.png" />
+          <mj-image href='#' src="./assets/blok_3_card.png" />
         </mj-column>
         <mj-column width="50%">
           <mj-text mj-class="heading">
@@ -116,7 +126,7 @@
           </mj-button>
         </mj-column>
         <mj-column width="50%">
-          <mj-image width="300px" href='#' src="./assets/blok_4_card.png" />
+          <mj-image href='#' src="./assets/blok_4_card.png" />
         </mj-column>
       </mj-section>
       <mj-raw>
@@ -124,7 +134,7 @@
       </mj-raw>
       <mj-section>
         <mj-column width="50%">
-          <mj-image width="300px" href='#' src="./assets/blok_5_card.png" />
+          <mj-image href='#' src="./assets/blok_5_card.png" />
         </mj-column>
         <mj-column width="50%">
           <mj-text mj-class="heading">
@@ -153,7 +163,7 @@
           </mj-button>
         </mj-column>
         <mj-column width="50%">
-          <mj-image width="300px" href='#' src="./assets/blok_6_card.png" />
+          <mj-image href='#' src="./assets/blok_6_card.png" />
         </mj-column>
       </mj-section>
       <!-- </mj-wrapper> -->
