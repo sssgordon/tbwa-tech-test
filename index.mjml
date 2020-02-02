@@ -10,18 +10,6 @@
 
       <mj-class name='helvetica' font-family='Helvetica' />
     </mj-attributes>
-
-    <mj-style inline='inline'>
-      .divider {
-        transform: scaleY(0.7) !important;
-      }
-    </mj-style>
-    <mj-style inline='inline'>
-      .icon {
-        transform: translateY(-6px) !important;
-        margin: 0 5px !important;
-      }
-    </mj-style>
     <mj-style inline='inline'>
       .link {
         color: #706f6f !important;
