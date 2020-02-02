@@ -51,17 +51,17 @@
         <!-- Blok 1 -->
       </mj-raw>
       <mj-section>
-        <mj-column width="50%" padding="0 25px 0 0">
-          <mj-image width="300px" href='#' src="./assets/blok_1_card.png" padding="10px 25px 10px 0" align='left' />
+        <mj-column width="50%">
+          <mj-image width="300px" href='#' src="./assets/blok_1_card.png" />
         </mj-column>
         <mj-column width="50%">
-          <mj-text mj-class="heading" padding="10px 0">
+          <mj-text mj-class="heading">
             Koffers pakken en gaan!
           </mj-text>
-          <mj-text mj-class="paragraph" padding="10px 0">
+          <mj-text mj-class="paragraph">
             Er staat een nieuwe winactie voor je klaar! Deze McDonald’s koffer is dé must-have voor jouw volgende vakantie. Check gauw de actie en win deze FAN-tastische prijs!
           </mj-text>
-          <mj-button mj-class="cta" href="#" padding="10px 0">
+          <mj-button mj-class="cta" href="#">
             Ga naar de actie
           </mj-button>
         </mj-column>
@@ -71,12 +71,12 @@
       </mj-raw>
       <mj-section>
         <mj-column width="100%">
-          <mj-text mj-class="heading" padding="10px 0">Uitgebreid dineren
+          <mj-text mj-class="heading">Uitgebreid dineren
           </mj-text>
-          <mj-text mj-class="paragraph" padding="10px 0">Dat doe je met ons nieuwe, tijdelijke Deluxe assortiment! Met de Crispy Shrimps, Homestyle Chicken Tenders, Milk Shake Deluxe én McFlurry Chocolade Karamel-Zeezout is er genoeg te kiezen.
+          <mj-text mj-class="paragraph">Dat doe je met ons nieuwe, tijdelijke Deluxe assortiment! Met de Crispy Shrimps, Homestyle Chicken Tenders, Milk Shake Deluxe én McFlurry Chocolade Karamel-Zeezout is er genoeg te kiezen.
           </mj-text>
-          <mj-image width="540px" href='#' src="./assets/blok_2_img.png" padding="10px 0" />
-          <mj-button mj-class="cta" href='#' padding="10px 0">
+          <mj-image width="540px" href='#' src="./assets/blok_2_img.png" />
+          <mj-button mj-class="cta" href='#'>
             Check het hele menu
           </mj-button>
         </mj-column>
@@ -86,16 +86,16 @@
       </mj-raw>
       <mj-section>
         <mj-column width="50%">
-          <mj-image width="300px" href='#' src="./assets/blok_3_card.png" padding="10px 25px 10px 0" />
+          <mj-image width="300px" href='#' src="./assets/blok_3_card.png" />
         </mj-column>
         <mj-column width="50%">
-          <mj-text mj-class="heading" padding="10px 0">
+          <mj-text mj-class="heading">
             Omdat jullie ‘m zo lekker vinden
           </mj-text>
-          <mj-text mj-class="paragraph" padding="10px 0">
+          <mj-text mj-class="paragraph">
             De exclusieve Coupon voor een Dubbele Cheeseburger hebben we wegens succes verlengd t/m 1 december! Dus pak ‘m nu voor maar €2,50 in de App.
           </mj-text>
-          <mj-button mj-class="cta" href="#" padding="10px 0">
+          <mj-button mj-class="cta" href="#">
             Coupon pakken
           </mj-button>
         </mj-column>
@@ -105,18 +105,18 @@
       </mj-raw>
       <mj-section>
         <mj-column width="50%">
-          <mj-text mj-class="heading" padding="10px 0">
+          <mj-text mj-class="heading">
             Het Happy Meal bestaat 40 jaar!
           </mj-text>
-          <mj-text mj-class="paragraph" padding="10px 0">
+          <mj-text mj-class="paragraph">
             Al 40 jaar maken we kinderen blij met onze Happy Meals. In al die jaren zaten er talloze verrassingen in het Happy Meal. De meest geliefde speeltjes keren terug t/m 10 november, zoals Power Rangers en Furby!
           </mj-text>
-          <mj-button mj-class="cta" href="#" padding="10px 0">
+          <mj-button mj-class="cta" href="#">
             Meer over Happy Meal
           </mj-button>
         </mj-column>
         <mj-column width="50%">
-          <mj-image width="300px" href='#' src="./assets/blok_4_card.png" padding="10px 0 10px 25px" />
+          <mj-image width="300px" href='#' src="./assets/blok_4_card.png" />
         </mj-column>
       </mj-section>
       <mj-raw>
@@ -124,16 +124,16 @@
       </mj-raw>
       <mj-section>
         <mj-column width="50%">
-          <mj-image width="300px" href='#' src="./assets/blok_5_card.png" padding="10px 25px 10px 0" />
+          <mj-image width="300px" href='#' src="./assets/blok_5_card.png" />
         </mj-column>
         <mj-column width="50%">
-          <mj-text mj-class="heading" padding="10px 0">
+          <mj-text mj-class="heading">
             De McPizza?!
           </mj-text>
-          <mj-text mj-class="paragraph" padding="10px 0">
+          <mj-text mj-class="paragraph">
             In SuperCrew testen we hoe goed onze Crew is. In deze aflevering: de behulpzame hostess Indy. Kan ze alle klanten bij de Easy Order Kiosk helpen?
           </mj-text>
-          <mj-button mj-class="cta" href="#" padding="10px 0">
+          <mj-button mj-class="cta" href="#">
             Kijk de aflevering
           </mj-button>
         </mj-column>
@@ -143,17 +143,17 @@
       </mj-raw>
       <mj-section>
         <mj-column width="50%">
-          <mj-text mj-class="heading" padding="10px 0">
+          <mj-text mj-class="heading">
             Deze Sneak Peak is speciaal voor jou…
           </mj-text>
-          <mj-text mj-class="paragraph" padding="10px 0">
+          <mj-text mj-class="paragraph">
             De Cadeau Kalender komt er weer aan! 3 weken lang geniet je elke dag van een lekkere verrassing. Wil je helemaal in de stemming komen? Houd de App in de gaten! </mj-text>
-          <mj-button mj-class="cta" href="#" padding="10px 0">
+          <mj-button mj-class="cta" href="#">
             Download de App
           </mj-button>
         </mj-column>
         <mj-column width="50%">
-          <mj-image width="300px" href='#' src="./assets/blok_6_card.png" padding="10px 0 10px 25px" />
+          <mj-image width="300px" href='#' src="./assets/blok_6_card.png" />
         </mj-column>
       </mj-section>
       <!-- </mj-wrapper> -->
@@ -186,10 +186,10 @@
       </mj-section>
       <mj-section padding-top='0'>
         <mj-column>
-          <mj-image width='200px' href='#' src='./assets/footer_app_store.png' align='right' />
+          <mj-image width='200px' href='#' src='./assets/footer_app_store.png' />
         </mj-column>
         <mj-column>
-          <mj-image width='200px' href='#' src='./assets/footer_google_play.png' align='left' />
+          <mj-image width='200px' href='#' src='./assets/footer_google_play.png' />
         </mj-column>
       </mj-section>
       <mj-section padding='0'>
@@ -209,19 +209,19 @@
       </mj-section>
       <mj-section padding='0'>
         <mj-column>
-          <mj-text mj-class='paragraph grey' padding='10px 0'>Je ontvangt deze e-mail omdat je toestemming hebt gegeven om acties en aanbiedingen van McDonald’s Nederland te ontvangen.
+          <mj-text mj-class='paragraph grey'>Je ontvangt deze e-mail omdat je toestemming hebt gegeven om acties en aanbiedingen van McDonald’s Nederland te ontvangen.
           </mj-text>
         </mj-column>
       </mj-section>
       <mj-section padding='0'>
         <mj-column>
-          <mj-text mj-class='paragraph grey' padding='10px 0'><a href='#' class='link'>Afmelden</a> | <a href='#' class='link'>Privacy- en cookiebeleid</a> | <a href='#' class='link'>Contact</a>
+          <mj-text mj-class='paragraph grey'><a href='#' class='link'>Afmelden</a> | <a href='#' class='link'>Privacy- en cookiebeleid</a> | <a href='#' class='link'>Contact</a>
           </mj-text>
         </mj-column>
       </mj-section>
       <mj-section padding='0'>
         <mj-column>
-          <mj-text mj-class='paragraph grey' padding='10px 0'>© 2019 McDonald's Nederland
+          <mj-text mj-class='paragraph grey'>© 2019 McDonald's Nederland
           </mj-text>
         </mj-column>
       </mj-section>
