@@ -171,13 +171,29 @@
         <!-- Footer -->
       </mj-raw>
       <!-- <mj-wrapper padding="0 80px 400px" background-color="#fff"> -->
-      <mj-section>
+      <mj-section text-align='center'>
         <mj-group>
-          <mj-column width="25%">
-            <mj-image width='70px' href='#' src='./assets/footer_logo.png' padding='0' align='left' />
+          <mj-column width='30%'>
+            <mj-table line-height='0' padding='0'>
+              <tr align='center'>
+                <td><a href='#'><img width='45%' src='./assets/footer_logo.png' /></a></td>
+              </tr>
+            </mj-table>
+            <!-- <mj-image width='70px' href='#' src='./assets/footer_logo.png' padding='0 25px' /> -->
           </mj-column>
-          <mj-column width='75%' background-color='#264f36' border-radius='6px' padding='0'>
-            <mj-navbar align='center'>
+          <mj-column width='65%' background-color='#264f36' border-radius='5px'>
+            <mj-table line-height='0' padding='5.45% 0'>
+              <tr align='center'>
+                <td width='22%'><a href='#'><img width='35%' src='./assets/footer_location.png' /></a></td>
+                <td><img width='6%' src='./assets/footer_divider.png' /></td>
+                <td width='22%'><a href='#'><img width='26%' src='./assets/footer_facebook.png' /></a></td>
+                <td><img width='6%' src='./assets/footer_divider.png' /></td>
+                <td width='22%'><a href='#'><img width='46%' src='./assets/footer_instagram.png' /></a></td>
+                <td><img width='6%' src='./assets/footer_divider.png' /></td>
+                <td width='22%'><a href='#'><img width='60%' src='./assets/footer_youtube.png' /></a></td>
+              </tr>
+            </mj-table>
+            <!-- <mj-navbar align='center'>
               <mj-navbar-link href='#' css-class="icon" line-height='0'><img width='24px' src='./assets/footer_location.png' /></mj-navbar-link>
               <mj-navbar-link css-class='divider' line-height='0'><img width='1px' src='./assets/footer_divider.png' /></mj-navbar-link>
               <mj-navbar-link href='#' css-class="icon" line-height='0'><img width='16px' src='./assets/footer_facebook.png' /></mj-navbar-link>
@@ -185,7 +201,7 @@
               <mj-navbar-link href='#' css-class="icon" line-height='0'><img width='28px' src='./assets/footer_instagram.png' /></mj-navbar-link>
               <mj-navbar-link css-class='divider' line-height='0'><img width='1px' src='./assets/footer_divider.png' /></mj-navbar-link>
               <mj-navbar-link href='#' css-class="icon" line-height='0'><img width='37px' src='./assets/footer_youtube.png' /></mj-navbar-link>
-            </mj-navbar>
+            </mj-navbar> -->
           </mj-column>
         </mj-group>
       </mj-section>
