@@ -62,7 +62,7 @@
       </mj-raw>
       <mj-section>
         <mj-column width="50%">
-          <mj-image width="300px" src="./assets/blok_1_card.png" padding="0 25px 0 0" />
+          <mj-image width="300px" href='#' src="./assets/blok_1_card.png" padding="0 25px 0 0" />
         </mj-column>
         <mj-column width="50%">
           <mj-text mj-class="heading" padding="10px 0">
@@ -85,7 +85,7 @@
           </mj-text>
           <mj-text mj-class="paragraph" padding="10px 0">Dat doe je met ons nieuwe, tijdelijke Deluxe assortiment! Met de Crispy Shrimps, Homestyle Chicken Tenders, Milk Shake Deluxe én McFlurry Chocolade Karamel-Zeezout is er genoeg te kiezen.
           </mj-text>
-          <mj-image width="540px" src="./assets/blok_2_img.png" padding="10px 0" />
+          <mj-image width="540px" href='#' src="./assets/blok_2_img.png" padding="10px 0" />
           <mj-button mj-class="cta" padding="10px 0">
             Check het hele menu
           </mj-button>
@@ -96,7 +96,7 @@
       </mj-raw>
       <mj-section>
         <mj-column width="50%">
-          <mj-image width="300px" src="./assets/blok_3_card.png" padding="0 25px 0 0" />
+          <mj-image width="300px" href='#' src="./assets/blok_3_card.png" padding="0 25px 0 0" />
         </mj-column>
         <mj-column width="50%">
           <mj-text mj-class="heading" padding="0 0 10px 0">
@@ -126,7 +126,7 @@
           </mj-button>
         </mj-column>
         <mj-column width="50%">
-          <mj-image width="300px" src="./assets/blok_4_card.png" padding="0 0 0 25px" />
+          <mj-image width="300px" href='#' src="./assets/blok_4_card.png" padding="0 0 0 25px" />
         </mj-column>
       </mj-section>
       <mj-raw>
@@ -134,7 +134,7 @@
       </mj-raw>
       <mj-section>
         <mj-column width="50%">
-          <mj-image width="300px" src="./assets/blok_5_card.png" padding="0 25px 0 0" />
+          <mj-image width="300px" href='#' src="./assets/blok_5_card.png" padding="0 25px 0 0" />
         </mj-column>
         <mj-column width="50%">
           <mj-text mj-class="heading" padding="0 0 10px 0">
@@ -163,7 +163,7 @@
           </mj-button>
         </mj-column>
         <mj-column width="50%">
-          <mj-image width="300px" src="./assets/blok_6_card.png" padding="0 0 0 25px" />
+          <mj-image width="300px" href='#' src="./assets/blok_6_card.png" padding="0 0 0 25px" />
         </mj-column>
       </mj-section>
     </mj-wrapper>
