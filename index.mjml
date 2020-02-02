@@ -156,11 +156,11 @@
           <mj-image width="300px" href='#' src="./assets/blok_6_card.png" padding="10px 0 10px 25px" />
         </mj-column>
       </mj-section>
-    </mj-wrapper>
-    <mj-raw>
-      <!-- Footer -->
-    </mj-raw>
-    <mj-wrapper padding="0 80px 400px" background-color="#fff">
+      <!-- </mj-wrapper> -->
+      <mj-raw>
+        <!-- Footer -->
+      </mj-raw>
+      <!-- <mj-wrapper padding="0 80px 400px" background-color="#fff"> -->
       <mj-section>
         <mj-group>
           <mj-column width="25%">
@@ -184,12 +184,12 @@
           <mj-text mj-class='paragraph grey helvetica'>Download de app</mj-text>
         </mj-column>
       </mj-section>
-      <mj-section>
+      <mj-section padding-top='0'>
         <mj-column>
-          <mj-image width='200px' href='#' src='./assets/footer_app_store.png' padding='0' align='left' />
+          <mj-image width='200px' href='#' src='./assets/footer_app_store.png' align='right' />
         </mj-column>
         <mj-column>
-          <mj-image width='200px' href='#' src='./assets/footer_google_play.png' padding='0' align='right' />
+          <mj-image width='200px' href='#' src='./assets/footer_google_play.png' align='left' />
         </mj-column>
       </mj-section>
       <mj-section padding='0'>
@@ -200,10 +200,10 @@
       <mj-section padding-top='0'>
         <mj-group>
           <mj-column>
-            <mj-image width='30px' href='#' src='./assets/footer_thumb_up.png' align='right' padding-right='40px' />
+            <mj-image width='30px' href='#' src='./assets/footer_thumb_up.png' align='right' />
           </mj-column>
           <mj-column>
-            <mj-image width='30px' href='#' src='./assets/footer_thumb_down.png' align='left' padding-left='40px' />
+            <mj-image width='30px' href='#' src='./assets/footer_thumb_down.png' align='left' />
           </mj-column>
         </mj-group>
       </mj-section>
