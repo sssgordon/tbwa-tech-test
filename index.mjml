@@ -30,13 +30,13 @@
   </mj-head>
 
   <mj-body>
-    <mj-wrapper padding="200px 30px 0" background-color="#fff">
+    <mj-wrapper padding="200px 30px" background-color="#fff">
       <mj-raw>
         <!-- Header -->
       </mj-raw>
       <mj-section padding-bottom='0'>
         <mj-column>
-          <mj-image src='./assets/header_top.png' padding='0' />
+          <mj-image href='#' src='./assets/header_top.png' padding='0' />
         </mj-column>
       </mj-section>
       <mj-section padding='0'>
@@ -54,7 +54,7 @@
       </mj-section>
       <mj-section padding-top='0'>
         <mj-column>
-          <mj-image src='./assets/header_bottom.png' padding='0' />
+          <mj-image href='#' src='./assets/header_bottom.png' padding='0' />
         </mj-column>
       </mj-section>
       <mj-raw>
