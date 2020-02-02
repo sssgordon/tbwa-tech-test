@@ -30,7 +30,7 @@
   </mj-head>
 
   <mj-body>
-    <mj-wrapper padding="200px 30px" background-color="#fff">
+    <mj-wrapper padding="50px 15px 150px" background-color="#fff">
       <mj-raw>
         <!-- Header -->
       </mj-raw>
@@ -166,42 +166,30 @@
           <mj-image href='#' src="./assets/blok_6_card.png" />
         </mj-column>
       </mj-section>
-      <!-- </mj-wrapper> -->
       <mj-raw>
         <!-- Footer -->
       </mj-raw>
-      <!-- <mj-wrapper padding="0 80px 400px" background-color="#fff"> -->
       <mj-section text-align='center'>
         <mj-group>
-          <mj-column width='30%'>
+          <mj-column width='30%' vertical-align='middle'>
             <mj-table line-height='0' padding='0'>
               <tr align='center'>
-                <td><a href='#'><img width='45%' src='./assets/footer_logo.png' /></a></td>
+                <td><a href='#'><img width='54%' src='./assets/footer_logo.png' /></a></td>
               </tr>
             </mj-table>
-            <!-- <mj-image width='70px' href='#' src='./assets/footer_logo.png' padding='0 25px' /> -->
           </mj-column>
-          <mj-column width='65%' background-color='#264f36' border-radius='5px'>
-            <mj-table line-height='0' padding='5.45% 0'>
+          <mj-column width='65%' background-color='#264f36' border-radius='5px' vertical-align='middle'>
+            <mj-table line-height='0' padding='6.9% 3%'>
               <tr align='center'>
-                <td width='22%'><a href='#'><img width='35%' src='./assets/footer_location.png' /></a></td>
-                <td><img width='6%' src='./assets/footer_divider.png' /></td>
-                <td width='22%'><a href='#'><img width='26%' src='./assets/footer_facebook.png' /></a></td>
-                <td><img width='6%' src='./assets/footer_divider.png' /></td>
-                <td width='22%'><a href='#'><img width='46%' src='./assets/footer_instagram.png' /></a></td>
-                <td><img width='6%' src='./assets/footer_divider.png' /></td>
-                <td width='22%'><a href='#'><img width='60%' src='./assets/footer_youtube.png' /></a></td>
+                <td width='22%'><a href='#'><img width='40%' src='./assets/footer_location.png' /></a></td>
+                <td><img width='7%' src='./assets/footer_divider.png' /></td>
+                <td width='22%'><a href='#'><img width='29%' src='./assets/footer_facebook.png' /></a></td>
+                <td><img width='7%' src='./assets/footer_divider.png' /></td>
+                <td width='22%'><a href='#'><img width='50%' src='./assets/footer_instagram.png' /></a></td>
+                <td><img width='7%' src='./assets/footer_divider.png' /></td>
+                <td width='22%'><a href='#'><img width='65%' src='./assets/footer_youtube.png' /></a></td>
               </tr>
             </mj-table>
-            <!-- <mj-navbar align='center'>
-              <mj-navbar-link href='#' css-class="icon" line-height='0'><img width='24px' src='./assets/footer_location.png' /></mj-navbar-link>
-              <mj-navbar-link css-class='divider' line-height='0'><img width='1px' src='./assets/footer_divider.png' /></mj-navbar-link>
-              <mj-navbar-link href='#' css-class="icon" line-height='0'><img width='16px' src='./assets/footer_facebook.png' /></mj-navbar-link>
-              <mj-navbar-link css-class='divider' line-height='0'><img width='1px' src='./assets/footer_divider.png' /></mj-navbar-link>
-              <mj-navbar-link href='#' css-class="icon" line-height='0'><img width='28px' src='./assets/footer_instagram.png' /></mj-navbar-link>
-              <mj-navbar-link css-class='divider' line-height='0'><img width='1px' src='./assets/footer_divider.png' /></mj-navbar-link>
-              <mj-navbar-link href='#' css-class="icon" line-height='0'><img width='37px' src='./assets/footer_youtube.png' /></mj-navbar-link>
-            </mj-navbar> -->
           </mj-column>
         </mj-group>
       </mj-section>
