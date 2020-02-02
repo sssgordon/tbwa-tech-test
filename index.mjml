@@ -1,32 +1,46 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-
       <mj-class name='heading' color='#212020' font-family='Sans-serif' font-weight='600' font-size="30px" align='center' />
       <mj-class name='paragraph' color='#2d2d2d' font-family="Arial" font-size='14px' align='center' line-height="1.5" />
       <mj-class name='cta' color='#264f36' background-color='transparent' border="1px solid #254f36" border-radius='5px' font-family='Sans-serif' font-size='16px' align='center' />
 
       <mj-class name='white' color='#fff' />
-      <mj-class name='grey-dark' color='#212020' />
-      <mj-class name='grey-medium' color='#2d2d2d' />
-      <mj-class name='grey-light' color='#706f6f' />
-      <mj-class name='green-light' color='#264f36' />
-      <mj-class name='green' color='#254f36' />
-      <mj-class name='tangerine' color='#ffbc0d' />
+      <mj-class name='grey' color='#706f6f' />
 
-      <mj-class name='font-sm' font-size='14px' />
-      <mj-class name='font-m' font-size='16px' />
-      <mj-class name='font-l' font-size='30px' />
-      <mj-class name='bold' font-weight='700' />
-
-      <mj-class name='arial' font-family='Arial' />
       <mj-class name='helvetica' font-family='Helvetica' />
-      <mj-class name='sans-serif' font-family='Sans-serif' />
     </mj-attributes>
+
+    <mj-style inline='inline'>
+      .divider {
+        transform: scaleY(0.7) !important;
+      }
+    </mj-style>
+    <mj-style inline='inline'>
+      .icon {
+        transform: translateY(-6px) !important;
+        margin: 0 5px !important;
+      }
+    </mj-style>
+    <mj-style inline='inline'>
+      .thumb-up {
+        transform: translateY(-5px) !important;
+      }
+    </mj-style>
+    <mj-style inline='inline'>
+      .thumb-down {
+        transform: translateY(5px) !important;
+      }
+    </mj-style>
+    <mj-style inline='inline'>
+      .link {
+        color: #706f6f !important;
+      }
+    </mj-style>
   </mj-head>
 
   <mj-body>
-    <mj-wrapper padding="200px 30px" background-color="#fff">
+    <mj-wrapper padding="200px 30px 0" background-color="#fff">
       <mj-raw>
         <!-- Header -->
       </mj-raw>
@@ -150,6 +164,75 @@
         </mj-column>
         <mj-column width="50%">
           <mj-image width="300px" src="./assets/blok_6_card.png" padding="0 0 0 25px" />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-raw>
+      <!-- Footer -->
+    </mj-raw>
+    <mj-wrapper padding="0 80px 400px" background-color="#fff">
+      <mj-section>
+        <mj-group>
+          <mj-column width="25%">
+            <mj-image width='70px' href='#' src='./assets/footer_logo.png' padding='0' align='left' />
+          </mj-column>
+          <mj-column width='75%' background-color='#264f36' border-radius='6px' padding='0'>
+            <mj-navbar align='center'>
+              <mj-navbar-link href='#' css-class="icon" line-height='0'><img width='24px' src='./assets/footer_location.png' /></mj-navbar-link>
+              <mj-navbar-link css-class='divider' line-height='0'><img width='1px' src='./assets/footer_divider.png' /></mj-navbar-link>
+              <mj-navbar-link href='#' css-class="icon" line-height='0'><img width='16px' src='./assets/footer_facebook.png' /></mj-navbar-link>
+              <mj-navbar-link css-class='divider' line-height='0'><img width='1px' src='./assets/footer_divider.png' /></mj-navbar-link>
+              <mj-navbar-link href='#' css-class="icon" line-height='0'><img width='28px' src='./assets/footer_instagram.png' /></mj-navbar-link>
+              <mj-navbar-link css-class='divider' line-height='0'><img width='1px' src='./assets/footer_divider.png' /></mj-navbar-link>
+              <mj-navbar-link href='#' css-class="icon" line-height='0'><img width='37px' src='./assets/footer_youtube.png' /></mj-navbar-link>
+            </mj-navbar>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding='0'>
+        <mj-column>
+          <mj-text mj-class='paragraph grey helvetica'>Download de app</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-image width='200px' href='#' src='./assets/footer_app_store.png' padding='0' align='left' />
+        </mj-column>
+        <mj-column>
+          <mj-image width='200px' href='#' src='./assets/footer_google_play.png' padding='0' align='right' />
+        </mj-column>
+      </mj-section>
+      <mj-section padding='0'>
+        <mj-column>
+          <mj-text mj-class='paragraph grey helvetica'>Wat vond je van deze e-mail?</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top='0'>
+        <mj-group>
+          <mj-column width='50%'>
+            <mj-image width='30px' href='#' css-class='thumb-up' src='./assets/footer_thumb_up.png' align='right' padding-right='40px' />
+          </mj-column>
+          <mj-column width='50%'>
+            <mj-image width='30px' href='#' css-class='thumb-down' src='./assets/footer_thumb_down.png' align='left' padding-left='40px' />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding='0'>
+        <mj-column>
+          <mj-text mj-class='paragraph grey' padding='10px 0'>Je ontvangt deze e-mail omdat je toestemming hebt gegeven om acties en aanbiedingen van McDonald’s Nederland te ontvangen.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding='0'>
+        <mj-column>
+          <mj-text mj-class='paragraph grey' padding='10px 0'><a href='#' class='link'>Afmelden</a> | <a href='#' class='link'>Privacy- en cookiebeleid</a> | <a href='#' class='link'>Contact</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding='0'>
+        <mj-column>
+          <mj-text mj-class='paragraph grey' padding='10px 0'>© 2019 McDonald's Nederland
+          </mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
