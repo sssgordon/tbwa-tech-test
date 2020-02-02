@@ -60,7 +60,7 @@
       <mj-raw>
         <!-- Blok 1 -->
       </mj-raw>
-      <mj-section full-width="full-width">
+      <mj-section>
         <mj-column width="50%">
           <mj-image width="300px" src="./assets/blok_1_card.png" padding="0 25px 0 0" />
         </mj-column>
@@ -94,7 +94,7 @@
       <mj-raw>
         <!-- Blok 3 -->
       </mj-raw>
-      <mj-section full-width="full-width">
+      <mj-section>
         <mj-column width="50%">
           <mj-image width="300px" src="./assets/blok_3_card.png" padding="0 25px 0 0" />
         </mj-column>
@@ -113,7 +113,7 @@
       <mj-raw>
         <!-- Blok 4 -->
       </mj-raw>
-      <mj-section full-width="full-width">
+      <mj-section>
         <mj-column width="50%">
           <mj-text mj-class="heading" padding="0 0 10px 0">
             Het Happy Meal bestaat 40 jaar!
@@ -132,7 +132,7 @@
       <mj-raw>
         <!-- Blok 5 -->
       </mj-raw>
-      <mj-section full-width="full-width">
+      <mj-section>
         <mj-column width="50%">
           <mj-image width="300px" src="./assets/blok_5_card.png" padding="0 25px 0 0" />
         </mj-column>
@@ -151,7 +151,7 @@
       <mj-raw>
         <!-- Blok 6 -->
       </mj-raw>
-      <mj-section full-width="full-width">
+      <mj-section>
         <mj-column width="50%">
           <mj-text mj-class="heading" padding="0 0 10px 0">
             Deze Sneak Peak is speciaal voor jou…
@@ -209,10 +209,10 @@
       </mj-section>
       <mj-section padding-top='0'>
         <mj-group>
-          <mj-column width='50%'>
+          <mj-column>
             <mj-image width='30px' href='#' css-class='thumb-up' src='./assets/footer_thumb_up.png' align='right' padding-right='40px' />
           </mj-column>
-          <mj-column width='50%'>
+          <mj-column>
             <mj-image width='30px' href='#' css-class='thumb-down' src='./assets/footer_thumb_down.png' align='left' padding-left='40px' />
           </mj-column>
         </mj-group>
